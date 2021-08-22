@@ -1,0 +1,88 @@
+{
+  "store.home": { 
+    "blocks": [
+      "tab-layout#home" //está no arquivo tab-layout
+      
+      
+      //"list-context.product-list",
+      /*"flex-layout.row#banner",
+      "flex-layout.row#filtro",
+      "flex-layout.row#prod"*/
+    ]
+  }
+
+/*"list-context.product-list": {
+    "blocks": [
+      "product-summary.shelf#home"
+    ],
+    "children": [
+      "slider-layout"
+    ]
+  },
+  "product-summary.shelf#home": {
+    "children": [
+      "modal-trigger#quick-view",
+      "product-summary-name",
+      "product-selling-price"
+    ]
+  },
+  "modal-trigger#quick-view": {
+    "children": [
+      "product-summary-image",
+      "modal-layout#quick-view"
+    ]
+  },
+  "modal-layout#quick-view": {
+    "children": [
+      "product-summary-name",
+      "product-images",
+      "product-summary-sku-selector",
+      "product-summary-quantity",
+      "add-to-cart-button"
+    ]
+  },*/
+
+
+
+  /*"flex-layout.row#banner": {
+    "children": [
+      "rich-text#view"
+      //"carrossel1"
+    ]
+  },
+  "flex-layout.row#filtro": {
+    "children": [
+      "rich-text#view"
+    ]
+  },
+  "flex-layout.row#prod": {
+    "children": [
+      "flex-layout.col#col1",
+      "flex-layout.col#col2"
+    ]
+  },
+  "flex-layout.col#col1": {
+    "children": [
+      "info-card#prod1"
+    ]    
+  },
+  "flex-layout.col#col2": {
+    "children": [
+      "info-card#prod1"
+    ]    
+  },
+  "info-card#prod1": {
+    "props": {
+      "imageUrl": "https://maratonavirtual.s3.sa-east-1.amazonaws.com/1627336500-01.png"
+    }
+  },
+  "rich-text#view": { 
+    "props": { 
+      "text": "você está vendo provas de ",
+      "textAlignment": "CENTER",
+      "textPosition": "CENTER",
+      "font": "t-small",
+      "textColor": "c-success"
+    }
+  }*/
+}

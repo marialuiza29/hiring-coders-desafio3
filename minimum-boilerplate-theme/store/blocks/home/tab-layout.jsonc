@@ -1,0 +1,13 @@
+{
+  "tab-layout#home": {
+    "children": [
+      "tab-list#home",
+      "slider-layout#home",
+      "tab-content#home"
+    ],
+    "props": {
+      "blockClass": "home",
+      "defaultActiveTabId": "promocao"
+    }
+  }
+}

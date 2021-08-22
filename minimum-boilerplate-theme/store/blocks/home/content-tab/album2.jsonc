@@ -1,0 +1,8 @@
+{
+  "rich-text#album2": {
+    "props": {
+      "text": "Tela Álbum 2",
+      "textPosition": "CENTER"
+    }
+  }
+}
